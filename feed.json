@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aaron J Holbrook",
+    "description": "",
+    "home_page_url": "http://aaronjholbrook.com/gh-pages",
+    "feed_url": "http://aaronjholbrook.com/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aaron Holbrook"
+    },
+    "items": [
+    ]
+}
